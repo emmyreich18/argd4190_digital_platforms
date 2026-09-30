@@ -96,8 +96,34 @@
 </section>
 <section class="ratings">
   <h2>My Ratings</h2>
+  <p class="ratings-hint">Search, filter, or sort, then click a card for details.</p>
+
+  <div class="ratings-controls">
+    <input type="text" id="search" placeholder="Search coffee shops...">
+
+    <div class="price-filters">
+      <button class="filter-btn active" data-price="all">All</button>
+      <button class="filter-btn" data-price="$">$</button>
+      <button class="filter-btn" data-price="$$">$$</button>
+    </div>
+
+    <select id="sort-select">
+      <option value="rating">Highest rated</option>
+      <option value="price">Cheapest first</option>
+      <option value="name">A–Z</option>
+    </select>
+  </div>
+
   <div id="ratings-list" data-category="Coffee"></div>
-</section>  <section class="photo-strip">
+</section>
+
+<div id="modal" class="modal hidden">
+  <div class="modal-box">
+    <button id="modal-close" class="modal-close">&times;</button>
+    <div id="modal-content"></div>
+  </div>
+</div> 
+  <section class="photo-strip">
     <img src="imgs/farmcart.jpeg" alt="Iced coffee at The Farm Cart">
     <img src="imgs/daydreamer.JPG" alt="Drinks at Daydreamer Cafe">
     <img src="imgs/farmcart2.JPG" alt="Coffee and pastry at The Farm Cart">
