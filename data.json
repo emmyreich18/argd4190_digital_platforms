@@ -1,11 +1,11 @@
 [
-  { "name": "Daydreamer", "category": "Coffee", "price": "$$", "rating": 3, "photo": "", "note": "" },
-  { "name": "Sunroof", "category": "Coffee", "price": "$", "rating": 4, "photo": "", "note": "" },
-  { "name": "1000 Faces", "category": "Coffee", "price": "$", "rating": 2, "photo": "", "note": "" },
-  { "name": "Foxtail", "category": "Coffee", "price": "$$", "rating": 2, "photo": "", "note": "" },
-  { "name": "Independent Baking Co", "category": "Coffee", "price": "$", "rating": 4, "photo": "", "note": "" },
-  { "name": "The Rook & Pawn", "category": "Coffee", "price": "$", "rating": 4, "photo": "", "note": "" },
-  { "name": "Dutch Bros Coffee", "category": "Coffee", "price": "$", "rating": 4, "photo": "", "note": "" },
-  { "name": "7 Brew Coffee", "category": "Coffee", "price": "$", "rating": 3, "photo": "", "note": "" },
-  { "name": "Caribou Coffee", "category": "Coffee", "price": "$", "rating": 4, "photo": "", "note": "" }
+  { "name": "Daydreamer", "category": "Coffee", "price": "$$", "rating": 3, "address": "174 N Finley St", "photo": "imgs/daydreamer.JPG", "note": "Tucked off the street, so it never feels crowded. Big enough for a group to study, with a seasonal drink menu. Open 10 to 2 daily." },
+  { "name": "Sunroof", "category": "Coffee", "price": "$", "rating": 4, "address": "198 College Ave & 175 Tracy St", "photo": "imgs/coffee2.JPG", "note": "Small and quiet downtown, plus the original Tracy St location that hosts art markets. Rotating seasonal menu." },
+  { "name": "1000 Faces", "category": "Coffee", "price": "$", "rating": 2, "address": "510 N Thomas St", "photo": "", "note": "The roaster with the best reputation in town. Bright, plant-filled, and sustainability-focused. Weekdays 7 to 6." },
+  { "name": "Foxtail", "category": "Coffee", "price": "$$", "rating": 2, "address": "357 W Hancock Ave", "photo": "", "note": "Newer downtown spot that fills up with students. Good wifi and a well-loved matcha, but pricier and parking is tight." },
+  { "name": "Independent Baking Co", "category": "Coffee", "price": "$", "rating": 4, "address": "1625 S Lumpkin St", "photo": "", "note": "Really a bakery that serves great coffee. Worth it for the sourdough and croissants. Patio seating, closed Mondays." },
+  { "name": "The Rook & Pawn", "category": "Coffee", "price": "$", "rating": 4, "address": "294 W Washington St #300", "photo": "", "note": "A board game cafe more than a coffee shop. $7 per person to play. Better for a group hang than a study session." },
+  { "name": "Dutch Bros Coffee", "category": "Coffee", "price": "$", "rating": 4, "address": "3131 Atlanta Hwy", "photo": "", "note": "Drive-thru chain with sweet drinks and fast service. Open 5 a.m. to 10 p.m." },
+  { "name": "7 Brew Coffee", "category": "Coffee", "price": "$", "rating": 3, "address": "3455 Atlanta Hwy", "photo": "", "note": "Drive-thru with huge sizes and lots of flavor options. Open 5:30 a.m. to 10 or 11." },
+  { "name": "Caribou Coffee", "category": "Coffee", "price": "$", "rating": 4, "address": "2198 W Broad St", "photo": "", "note": "A chain, but this location has a well-liked crew. Breakfast food, drive-thru, open 6 to 6 daily." }
 ]
