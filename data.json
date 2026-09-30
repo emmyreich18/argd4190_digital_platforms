@@ -1,0 +1,65 @@
+[
+  {
+    "Name": "Daydreamer",
+    "Category": "Coffee",
+    "Price (0-$$$)": "$$",
+    "My rating (1-5)": 3,
+    "Photo": "imgs/daydreamer.JPG"
+  },
+  {
+    "Name": "Sunroof",
+    "Category": "Coffee",
+    "Price (0-$$$)": "$",
+    "My rating (1-5)": 4,
+    "Photo": "imgs/coffee2.JPG"
+  },
+  {
+    "Name": "1000 Faces",
+    "Category": "Coffee",
+    "Price (0-$$$)": "$",
+    "My rating (1-5)": 2,
+    "Photo": ""
+  },
+  {
+    "Name": "Foxtail",
+    "Category": "Coffee",
+    "Price (0-$$$)": "$$",
+    "My rating (1-5)": 2,
+    "Photo": ""
+  },
+  {
+    "Name": "Independent Baking Co",
+    "Category": "Coffee",
+    "Price (0-$$$)": "$",
+    "My rating (1-5)": 4,
+    "Photo": ""
+  },
+  {
+    "Name": "The Rook & Pawn",
+    "Category": "Coffee",
+    "Price (0-$$$)": "$",
+    "My rating (1-5)": 4,
+    "Photo": ""
+  },
+  {
+    "Name": "Dutch Bros Coffee",
+    "Category": "Coffee",
+    "Price (0-$$$)": "$",
+    "My rating (1-5)": 4,
+    "Photo": ""
+  },
+  {
+    "Name": "7 Brew Coffee",
+    "Category": "Coffee",
+    "Price (0-$$$)": "$",
+    "My rating (1-5)": 3,
+    "Photo": ""
+  },
+  {
+    "Name": "Caribou Coffee",
+    "Category": "Coffee",
+    "Price (0-$$$)": "$",
+    "My rating (1-5)": 4,
+    "Photo": ""
+  }
+]

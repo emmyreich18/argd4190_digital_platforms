@@ -259,3 +259,40 @@
   opacity: 0.8;
   font-family: "Lora", serif;
 }
+#ratings-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.rating-card {
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+}
+
+.rating-card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.rating-stars {
+  color: #d4a017;
+  font-size: 1.2rem;
+}
+.ratings {
+  max-width: 1100px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+.ratings h2,
+.rating-card h3 {
+  font-family: "Staatliches", sans-serif;
+  color: #ce0c1c;
+}
+
+.rating-card p {
+  font-family: "Lora", serif;
+  margin: 0.25rem 0;
+}
